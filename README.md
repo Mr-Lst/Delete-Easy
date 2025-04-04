@@ -50,4 +50,4 @@ Delete Easy is the perfect tool to get rid of these files quickly and safely! ğŸ
 
 ## ğŸ‰ Keep your device fast and secure with Delete Easy!
 
-# by MrLst
+# By MrLst
