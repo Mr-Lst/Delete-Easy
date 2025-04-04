@@ -49,3 +49,5 @@ Delete Easy is the perfect tool to get rid of these files quickly and safely! ğŸ
 - Delete Easy is completely safe to use, but make sure to back up important data before using it to avoid any accidental file loss.
 
 ## ğŸ‰ Keep your device fast and secure with Delete Easy!
+
+# by MrLst
