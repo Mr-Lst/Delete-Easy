@@ -32,19 +32,19 @@ Delete Easy is the perfect tool to get rid of these files quickly and safely! ðŸ
 
 -Enjoy a faster, more efficient device!
 
-Upcoming Features:
-Enhanced user interface with support for additional languages.
+# Upcoming Features:
+-Enhanced user interface with support for additional languages.
 
-System analysis tools to provide detailed info about unnecessary files.
+-System analysis tools to provide detailed info about unnecessary files.
 
-Support for multiple systems such as Windows, Linux, and macOS.
+-Support for multiple systems such as Windows, Linux, and macOS.
 
-Options to delete files based on customizable criteria.
+-Options to delete files based on customizable criteria.
 
-Contributing:
-If you want to contribute to the development of this tool, feel free to open issues or submit pull requests on GitHub.
+# Contributing:
+-If you want to contribute to the development of this tool, feel free to open issues or submit pull requests on GitHub.
 
-Note:
-Delete Easy is completely safe to use, but make sure to back up important data before using it to avoid any accidental file loss.
+# Note:
+-Delete Easy is completely safe to use, but make sure to back up important data before using it to avoid any accidental file loss.
 
 ## ðŸŽ‰ Keep your device fast and secure with Delete Easy!
