@@ -2,6 +2,7 @@
 A tool to delete temporary, unnecessary, and harmful files to improve your system’s performance 🧹💻
 
 **Ever feel like your computer is slow or filled with unnecessary files taking up space ?**
+
 Delete Easy is the perfect tool to get rid of these files quickly and safely! 🚀
 
 # Features:
