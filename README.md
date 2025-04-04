@@ -5,7 +5,7 @@ Ever feel like your computer is slow or filled with unnecessary files taking up 
 Delete Easy is the perfect tool to get rid of these files quickly and safely! 🚀
 
 # Features:
-: Delete Temporary Files: Remove files that are no longer needed and just take up space.
+- Delete Temporary Files: Remove files that are no longer needed and just take up space.
 
 : Remove Unnecessary Files: Clean up files that don’t affect system or app functionality but occupy valuable space.
 
