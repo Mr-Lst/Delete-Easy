@@ -4,20 +4,20 @@ A tool to delete temporary, unnecessary, and harmful files to improve your syste
 Ever feel like your computer is slow or filled with unnecessary files taking up space?
 Delete Easy is the perfect tool to get rid of these files quickly and safely! 🚀
 
-Features:
-Delete Temporary Files: Remove files that are no longer needed and just take up space.
+# Features:
+: Delete Temporary Files: Remove files that are no longer needed and just take up space.
 
-Remove Unnecessary Files: Clean up files that don’t affect system or app functionality but occupy valuable space.
+: Remove Unnecessary Files: Clean up files that don’t affect system or app functionality but occupy valuable space.
 
-Delete Harmful Files: Protect your system by removing harmful files that could slow it down or damage it.
+: Delete Harmful Files: Protect your system by removing harmful files that could slow it down or damage it.
 
-Improve System Performance: After deleting unnecessary files, your system will work faster and more efficiently.
+: Improve System Performance: After deleting unnecessary files, your system will work faster and more efficiently.
 
-Simple and User-Friendly Interface: Built with PyQt5 to provide a smooth user experience.
+: Simple and User-Friendly Interface: Built with PyQt5 to provide a smooth user experience.
 
-Multi-Language Support: Easily switch between languages (under development).
+: Multi-Language Support: Easily switch between languages (under development).
 
-Customizable Color Options: Choose your preferred colors for a more personalized experience.
+: Customizable Color Options: Choose your preferred colors for a more personalized experience.
 
 How to Use:
 Download the tool from [GitHub Repository Link].
